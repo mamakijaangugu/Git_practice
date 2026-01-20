@@ -2,3 +2,4 @@ Hello!
 
 lets add more lines and commit again
 opened in vs code and added this line
+gitignore was added at this step
