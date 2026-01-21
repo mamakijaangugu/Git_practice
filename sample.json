@@ -1,3 +1,4 @@
 {
-   "feature":"Cool feature"
+    "feature":"Cool feature",
+   "bug_feature":"critical"
 }
