@@ -2,4 +2,6 @@ Hello!
 
 lets add more lines and commit again
 opened in vs code and added this line
+I added this line into new branch.
+Lets add a cool faeture!!!!
 hey!! I have fixed the bug
